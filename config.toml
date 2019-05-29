@@ -1,4 +1,4 @@
-baseURL = "https://kross.netlify.com"
+baseURL = ""
 languageCode = "en-us"
 title = "Other Agency"
 theme = "kross-hugo"
@@ -55,7 +55,7 @@ summaryLength = "10"
 logo = ""
 home = ""
 # Meta data
-description = "Envisioning your brand through the lens of tomorrow. "
+description = "Other Agency is your brand through the lens of tomorrow. "
 author = "Will Seggos"
 # Google Analitycs
 googleAnalitycsID = "Your ID"
