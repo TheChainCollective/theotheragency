@@ -872,3 +872,6 @@ blockquote {
 .values{
   font-size:3em;
 }
+.navbar-toggler{
+  display:none;
+}
